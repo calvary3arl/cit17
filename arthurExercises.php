@@ -19,7 +19,7 @@
         $name = $_POST['name'];
         $age = $_POST['age'];
         $color = $_POST['color'];
-        echo "Hi, I’m $name, I am $age years old, and my favorite color is $color.";
+        echo "Hi, I'm $name, I am $age years old, and my favorite color is $color.";
     }
     echo "<hr>";
 
